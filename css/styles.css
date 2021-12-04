@@ -325,6 +325,7 @@ tfoot,
 tr,
 td,
 th {
+  text-align: left;
   border-color: inherit;
   border-style: solid;
   border-width: 0;
